@@ -50,7 +50,7 @@ Hemoglobin is the oxygen-carrying protein in red blood cells (RBCs). It reflects
 
 ---
 
-# Case Studies (25 Examples)
+# Case Studies 
 
 ### Case 1  
 **Input:** Hemoglobin = 11.5 g/dL (male, 35 years old)  
