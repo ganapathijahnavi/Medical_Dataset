@@ -8,8 +8,6 @@
 - **Infants (6 months–1 year):** 11.0 – 13.5 g/dL  
 - **Newborns (0–1 month):** 13.5 – 20.0 g/dL  
 
-*(Ranges may vary slightly depending on laboratory and methodology)*  
-
 ---
 
 **Clinical Significance:**  
