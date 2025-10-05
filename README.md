@@ -139,7 +139,3 @@ Each file includes:
 
 ---
 
-### 🛡️ Immunology
-- [Immunoglobulins (IgG, IgA, IgM, IgE)](Immunoglobulins.md)  
-
----
