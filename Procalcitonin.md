@@ -1,4 +1,4 @@
-# Procalcitonin (PCT) – 25 Input/Output Clinical Cases
+# Procalcitonin (PCT) 
 
 **Normal Range:**  
 < 0.1 ng/mL (normal)  
