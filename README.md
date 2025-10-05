@@ -22,7 +22,7 @@ Each file includes:
 - [MCV](Mean_Corpuscular_Volume.md)  
 - [MCH](Mean_Corpuscular_Hemoglobin.md)  
 - [MCHC](Mean_Corpuscular_Hemoglobin_Concentration.md)  
-- [RDW](RDW (Red Cell Distribution Width).md)  
+- [RDW](RDW.md)  
 - [Reticulocyte Count](Reticulocyte_Count.md)  
 - [Neutrophils](Neutrophils.md)  
 - [Lymphocytes](Lymphocytes.md)  
@@ -35,7 +35,7 @@ Each file includes:
 
 ### 🔬 Iron Studies
 - [Serum Iron](Serum_Iron.md)  
-- [TIBC / Transferrin](TIBC.md)  
+- [TIBC / Transferrin](Transferrin.md)  
 - [% Iron Saturation](Iron_Saturation.md)  
 - [Ferritin](Ferritin.md)  
 
@@ -56,7 +56,7 @@ Each file includes:
 
 ### 🧬 Kidney Function
 - [Creatinine](Creatinine.md)  
-- [BUN](BUN.md)  
+- [BUN](Blood_Urea_Nitrogen.md)  
 - [eGFR](eGFR.md)  
 - [Uric Acid](Uric_Acid.md)  
 
@@ -64,7 +64,7 @@ Each file includes:
 
 ### 🫀 Liver Function
 - [ALT (SGPT)](ALT.md)  
-- [AST (SGOT)](AST.md)  
+- [AST (SGOT)](Aspartate_Aminotransferase.md)  
 - [ALP](ALP.md)  
 - [GGT](GGT.md)  
 - [Bilirubin (Total & Direct)](Bilirubin.md)  
@@ -74,9 +74,9 @@ Each file includes:
 ---
 
 ### ❤️ Cardiac Enzymes & Markers
-- [CK](CK.md)  
+- [CK](Creatine_Kinase.md)  
 - [CK-MB](CK_MB.md)  
-- [LDH](LDH.md)  
+- [LDH](Lactate_Dehydrogenase.md)  
 - [Troponin](Troponin.md)  
 - [Myoglobin](Myoglobin.md)  
 - [BNP](BNP.md)  
@@ -101,7 +101,7 @@ Each file includes:
 ### 🦴 Hormones & Endocrine
 - [Cortisol](Cortisol.md)  
 - [PTH](PTH.md)  
-- [Thyroid Function (TSH, T3, T4)](Thyroid.md)  
+- [Thyroid Function (TSH, T3, T4)](Thyroid_Function_Tests.md)  
 
 ---
 
@@ -117,7 +117,7 @@ Each file includes:
 
 ### 🧪 Lipid Profile
 - [Total Cholesterol](Total_Cholesterol.md)  
-- [HDL](HDL.md)  
+- [HDL](HDL_Cholesterol.md)  
 - [LDL](LDL.md)  
 - [VLDL](VLDL.md)  
 - [Triglycerides](Triglycerides.md)  
@@ -125,11 +125,11 @@ Each file includes:
 ---
 
 ### 🩸 Coagulation
-- [PT](PT.md)  
+- [PT](Prothrombin_Time.md)  
 - [INR](INR.md)  
 - [aPTT](aPTT.md)  
 - [Fibrinogen](Fibrinogen.md)  
-- [D-dimer](D_dimer.md)  
+- [D-dimer](D-dimer.md)  
 
 ---
 
