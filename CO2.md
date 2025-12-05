@@ -7,8 +7,6 @@
 Bicarbonate helps maintain acid-base balance.  
 Abnormal levels indicate metabolic or respiratory disturbances.
 
----
-
 ### Input–Output Cases (25 Examples)
 
 | Case | Input (CO₂ Level) | Output (Possible Interpretation) |
