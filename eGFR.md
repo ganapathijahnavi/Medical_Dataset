@@ -8,12 +8,8 @@
 15 – 29: Severe decrease  
 < 15: Kidney failure (end-stage renal disease)
 
----
-
 **Clinical Significance:**  
 eGFR estimates kidney function by calculating how much blood is filtered per minute by the kidneys. It is derived from creatinine, age, sex, and sometimes race. Lower values indicate impaired kidney function.
-
----
 
 **Future Diseases:**  
 - Chronic kidney disease (CKD)  
@@ -21,16 +17,12 @@ eGFR estimates kidney function by calculating how much blood is filtered per min
 - Hypertension-related kidney damage  
 - Diabetic nephropathy  
 
----
-
 **Lifestyle Recommendations:**  
 - Control blood pressure and blood sugar  
 - Limit salt and protein intake if CKD  
 - Avoid nephrotoxic drugs (NSAIDs, contrast dyes)  
 - Stay hydrated  
 - Regular monitoring with a nephrologist  
-
----
 
 **Case Studies:**
 
