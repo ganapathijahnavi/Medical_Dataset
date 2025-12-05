@@ -16,9 +16,8 @@ Lymphocytes (T-cells, B-cells, NK cells) are essential for adaptive immunity. Th
 - Vaccinations to prevent infections  
 - Medical follow-up if persistent abnormality  
 
----
 
-## 25 Input/Output Cases
+**Case Studies:**
 
 1. **Input:** Lymphocytes 55%, sore throat, swollen lymph nodes  
    **Output:** Suggests infectious mononucleosis (viral infection)  
