@@ -1,10 +1,10 @@
 # Procalcitonin (PCT)
 
-**Normal Range:**  
-< 0.1 ng/mL (normal)  
-0.1 – 0.5 ng/mL (possible mild/local infection)  
-> 0.5 ng/mL (bacterial infection/sepsis likely)  
-> 2 ng/mL (severe sepsis/septic shock)  
+**Normal Range:** 
+- < 0.1 ng/mL (normal)  
+- 0.1 – 0.5 ng/mL (possible mild/local infection)  
+- > 0.5 ng/mL (bacterial infection/sepsis likely)  
+- > 2 ng/mL (severe sepsis/septic shock)  
 
 **Case Studies:**
 
