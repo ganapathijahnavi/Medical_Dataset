@@ -25,7 +25,7 @@ Zinc is an essential trace element involved in immune function, wound healing, t
 
 ---
 
-# Case Interpretations
+**Case Studies:**
 
 Case 1
 
