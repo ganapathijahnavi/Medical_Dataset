@@ -29,7 +29,7 @@ WBCs are immune cells that protect against infection.
 
 ---
 
-## Case Interpretations
+## Case Studies:
 
 Case 1
 
