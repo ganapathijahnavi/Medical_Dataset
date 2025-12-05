@@ -16,9 +16,7 @@ Eosinophils are white blood cells involved in allergic reactions, asthma, and de
 - Balanced diet and healthy lifestyle  
 - Medical follow-up for persistent abnormalities  
 
----
-
-## 25 Input/Output Cases
+**Case Studies:**
 
 1. **Input:** Eosinophils 8%, recurrent wheezing, asthma history  
    **Output:** Eosinophilia likely due to asthma exacerbation  
