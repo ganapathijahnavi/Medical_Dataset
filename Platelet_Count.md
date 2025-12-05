@@ -20,7 +20,7 @@ Platelets (thrombocytes) are essential for **blood clotting and wound healing**.
 - Monitor medications (e.g., aspirin, anticoagulants) affecting platelet function  
 - Regular medical follow-up if counts are persistently abnormal  
 
-## Case Studies
+**Case Studies:**
 
 Case 1 Input: Platelets = 120,000/µL (male, 35 years old) Output: Mild thrombocytopenia. May be due to viral infection, medications, or early bone marrow disorder. Avoid injury and consult a doctor.
 
