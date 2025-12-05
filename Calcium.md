@@ -4,15 +4,11 @@
 - **Total Calcium:** 8.5 – 10.2 mg/dL  
 - **Ionized Calcium (active form):** 4.6 – 5.3 mg/dL  
 
----
-
 **Clinical Significance:**  
 Calcium is crucial for **bone health, muscle contraction, nerve signaling, and blood clotting**. Abnormal levels often reflect **parathyroid gland disorders, kidney disease, or vitamin D imbalance**.  
 
 - **Hypocalcemia (low calcium):** Causes muscle cramps, tingling, seizures.  
 - **Hypercalcemia (high calcium):** May cause kidney stones, fatigue, bone pain, psychiatric disturbances.  
-
----
 
 **Future Diseases:**  
 - **Hypocalcemia:**  
@@ -25,164 +21,135 @@ Calcium is crucial for **bone health, muscle contraction, nerve signaling, and b
   - Cancer-related bone disease  
   - Sarcoidosis  
 
----
-
 **Lifestyle Recommendations:**  
 - Ensure **adequate calcium & vitamin D intake** (diet or supplements if prescribed)  
 - Engage in **regular weight-bearing exercise**  
 - Avoid **excessive calcium supplements** (risk of kidney stones)  
 - Regular monitoring if you have **parathyroid, kidney, or bone disorders**  
 
----
+**Case Studies:** 
 
-# Case Studies 
+Case 1
+Input: 9.5 mg/dL (male, 30, healthy)
+Output: Normal.
+Recommendation: Balanced diet and healthy lifestyle.
 
-### Case 1  
-**Input:** Calcium = 9.5 mg/dL (male, 30 years old, healthy)  
-**Output:** Normal. Continue balanced diet and healthy lifestyle.  
+Case 2
+Input: 7.8 mg/dL (female, 25, low vitamin D)
+Output: Low calcium, likely vitamin D deficiency.
+Recommendation: Supplementation, sunlight exposure.
 
----
+Case 3
+Input: 11.2 mg/dL (male, 55, hyperparathyroidism)
+Output: Elevated calcium, overactive parathyroid.
+Recommendation: Medical evaluation.
 
-### Case 2  
-**Input:** Calcium = 7.8 mg/dL (female, 25 years old, low vitamin D)  
-**Output:** Low calcium, likely due to vitamin D deficiency. Recommend supplementation and sunlight exposure.  
+Case 4
+Input: 8.3 mg/dL (female, 60, CKD)
+Output: Low calcium due to kidney dysfunction.
+Recommendation: Nephrology follow-up.
 
----
+Case 5
+Input: 10.8 mg/dL (male, 70, metastatic cancer)
+Output: Elevated, possible cancer-related hypercalcemia.
+Recommendation: Urgent oncology care.
 
-### Case 3  
-**Input:** Calcium = 11.2 mg/dL (male, 55 years old, hyperparathyroidism)  
-**Output:** Elevated calcium, consistent with overactive parathyroid glands. Medical evaluation required.  
+Case 6
+Input: 9.0 mg/dL (female, 28, pregnant)
+Output: Normal.
+Recommendation: Balanced diet.
 
----
+Case 7
+Input: 7.5 mg/dL (male, 45, post-thyroid surgery)
+Output: Hypocalcemia from possible parathyroid injury.
+Recommendation: Calcium + vitamin D supplementation.
 
-### Case 4  
-**Input:** Calcium = 8.3 mg/dL (female, 60 years old, chronic kidney disease)  
-**Output:** Low calcium due to kidney dysfunction. Requires nephrology follow-up.  
+Case 8
+Input: 10.1 mg/dL (female, 50, healthy)
+Output: Upper normal.
+Recommendation: Monitor, avoid excess supplements.
 
----
+Case 9
+Input: 12.5 mg/dL (male, 65, dehydration)
+Output: Severe hypercalcemia.
+Recommendation: IV fluids, hospital care.
 
-### Case 5  
-**Input:** Calcium = 10.8 mg/dL (male, 70 years old, metastatic cancer)  
-**Output:** Elevated calcium, possibly cancer-related hypercalcemia. Needs urgent oncology management.  
+Case 10
+Input: 8.6 mg/dL (child, 10, healthy)
+Output: Normal.
+Recommendation: Encourage calcium-rich foods.
 
----
+Case 11
+Input: 7.0 mg/dL (female, 40, seizures)
+Output: Severe hypocalcemia.
+Recommendation: Urgent IV calcium.
 
-### Case 6  
-**Input:** Calcium = 9.0 mg/dL (female, 28 years old, pregnant)  
-**Output:** Normal calcium level during pregnancy. Continue balanced diet.  
+Case 12
+Input: 10.5 mg/dL (male, 33, supplement overuse)
+Output: Mild hypercalcemia.
+Recommendation: Stop supplements, monitor kidneys.
 
----
+Case 13
+Input: 8.4 mg/dL (female, 70, osteoporosis)
+Output: Slightly low.
+Recommendation: Calcium/vitamin D support, bone health monitoring.
 
-### Case 7  
-**Input:** Calcium = 7.5 mg/dL (male, 45 years old, post-thyroid surgery)  
-**Output:** Hypocalcemia due to possible parathyroid injury. Needs calcium and vitamin D supplementation.  
+Case 14
+Input: 9.7 mg/dL (male, 18, athlete)
+Output: Normal.
+Recommendation: Maintain calcium-rich diet.
 
----
+Case 15
+Input: 11.0 mg/dL (female, 65, on diuretics)
+Output: Elevated, possible med side effect.
+Recommendation: Adjust treatment medically.
 
-### Case 8  
-**Input:** Calcium = 10.1 mg/dL (female, 50 years old, healthy)  
-**Output:** Upper normal range. Monitor, avoid excessive supplements.  
+Case 16
+Input: 7.9 mg/dL (male, 50, chronic alcoholism)
+Output: Low calcium, likely vitamin D/magnesium deficiency.
+Recommendation: Lifestyle modification, supplements.
 
----
+Case 17
+Input: 9.2 mg/dL (female, 32, breastfeeding)
+Output: Normal.
+Recommendation: Maintain adequate dietary intake.
 
-### Case 9  
-**Input:** Calcium = 12.5 mg/dL (male, 65 years old, dehydration)  
-**Output:** Severe hypercalcemia. Could be worsened by dehydration. Requires IV fluids and hospital care.  
+Case 18
+Input: 10.9 mg/dL (male, 45, sarcoidosis)
+Output: Elevated calcium from granulomatous disease.
+Recommendation: Monitoring and treatment.
 
----
+Case 19
+Input: 8.2 mg/dL (female, 12, malnutrition)
+Output: Hypocalcemia.
+Recommendation: Improve diet, consider supplementation.
 
-### Case 10  
-**Input:** Calcium = 8.6 mg/dL (child, 10 years old, healthy)  
-**Output:** Normal calcium level for a child. Encourage calcium-rich foods for bone growth.  
+Case 20
+Input: 9.6 mg/dL (male, 80, stable)
+Output: Normal.
+Recommendation: Maintain balanced nutrition.
 
----
+Case 21
+Input: 12.0 mg/dL (female, 55, kidney stones)
+Output: Hypercalcemia contributing to stones.
+Recommendation: Limit supplements, manage parathyroid.
 
-### Case 11  
-**Input:** Calcium = 7.0 mg/dL (female, 40 years old, seizures)  
-**Output:** Severe hypocalcemia, neurological symptoms present. Requires urgent IV calcium.  
+Case 22
+Input: 8.7 mg/dL (male, 35, vegan)
+Output: Normal but lower end.
+Recommendation: Ensure fortified foods or supplements.
 
----
+Case 23
+Input: 7.6 mg/dL (female, 22, hypoparathyroidism)
+Output: Hypocalcemia from low PTH.
+Recommendation: Lifelong supplementation.
 
-### Case 12  
-**Input:** Calcium = 10.5 mg/dL (male, 33 years old, supplement overuse)  
-**Output:** Mild hypercalcemia from excessive supplementation. Stop supplements, monitor kidney health.  
+Case 24
+Input: 10.3 mg/dL (male, 42, borderline high)
+Output: Slightly above normal.
+Recommendation: Monitor for hyperparathyroidism or dehydration.
 
----
-
-### Case 13  
-**Input:** Calcium = 8.4 mg/dL (female, 70 years old, osteoporosis)  
-**Output:** Slightly low calcium. Needs calcium/vitamin D support and bone health monitoring.  
-
----
-
-### Case 14  
-**Input:** Calcium = 9.7 mg/dL (male, 18 years old, athlete)  
-**Output:** Normal calcium level. Continue diet rich in dairy and greens.  
-
----
-
-### Case 15  
-**Input:** Calcium = 11.0 mg/dL (female, 65 years old, on diuretics)  
-**Output:** Elevated calcium, possible medication side effect. Adjust treatment under medical advice.  
-
----
-
-### Case 16  
-**Input:** Calcium = 7.9 mg/dL (male, 50 years old, chronic alcoholism)  
-**Output:** Low calcium, possible vitamin D and magnesium deficiency. Lifestyle modification needed.  
-
----
-
-### Case 17  
-**Input:** Calcium = 9.2 mg/dL (female, 32 years old, breastfeeding)  
-**Output:** Normal calcium. Maintain adequate dietary intake during lactation.  
-
----
-
-### Case 18  
-**Input:** Calcium = 10.9 mg/dL (male, 45 years old, sarcoidosis)  
-**Output:** Elevated calcium due to granulomatous disease. Requires monitoring and treatment.  
-
----
-
-### Case 19  
-**Input:** Calcium = 8.2 mg/dL (female, 12 years old, malnutrition)  
-**Output:** Hypocalcemia, likely due to poor nutrition. Improve diet, consider supplementation.  
-
----
-
-### Case 20  
-**Input:** Calcium = 9.6 mg/dL (male, 80 years old, stable health)  
-**Output:** Normal for age. Maintain balanced nutrition and hydration.  
-
----
-
-### Case 21  
-**Input:** Calcium = 12.0 mg/dL (female, 55 years old, kidney stones)  
-**Output:** Hypercalcemia contributing to stone formation. Limit supplements, manage parathyroid function.  
-
----
-
-### Case 22  
-**Input:** Calcium = 8.7 mg/dL (male, 35 years old, vegan)  
-**Output:** Normal but close to lower end. Ensure fortified foods or supplements.  
-
----
-
-### Case 23  
-**Input:** Calcium = 7.6 mg/dL (female, 22 years old, hypoparathyroidism)  
-**Output:** Hypocalcemia from low parathyroid hormone. Requires lifelong supplementation.  
-
----
-
-### Case 24  
-**Input:** Calcium = 10.3 mg/dL (male, 42 years old, borderline high)  
-**Output:** Slightly above normal, monitor for hyperparathyroidism or dehydration.  
-
----
-
-### Case 25  
-**Input:** Calcium = 6.8 mg/dL (infant, 2 months old)  
-**Output:** Severe hypocalcemia, risk of seizures. Requires urgent pediatric evaluation and IV calcium.  
-
----
+Case 25
+Input: 6.8 mg/dL (infant, 2 months)
+Output: Severe hypocalcemia.
+Recommendation: Urgent pediatric evaluation, IV calcium.
