@@ -32,7 +32,7 @@ eGFR estimates kidney function by calculating how much blood is filtered per min
 
 ---
 
-## Case Interpretations (25 Cases)
+**Case Studies:**
 
 Case 1
 
