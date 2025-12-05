@@ -14,7 +14,7 @@ Represents the percentage of transferrin bound with iron.
 - Hemochromatosis (↑)  
 - Iron overload disorders (↑)  
 
-**25 Sample Cases (Input → Output):**
+**Case Studies**
 
 1. Input: 5% → Output: Severely low, consistent with iron deficiency anemia  
 2. Input: 8% → Output: Very low, strong suspicion of iron deficiency  
