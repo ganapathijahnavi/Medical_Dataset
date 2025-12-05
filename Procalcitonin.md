@@ -1,94 +1,59 @@
-# Procalcitonin (PCT) 
+# Procalcitonin (PCT)
 
 **Normal Range:**  
 < 0.1 ng/mL (normal)  
 0.1 – 0.5 ng/mL (possible mild/local infection)  
 > 0.5 ng/mL (bacterial infection/sepsis likely)  
-> 2 ng/mL (severe sepsis/septic shock)
+> 2 ng/mL (severe sepsis/septic shock)  
 
----
+**Case Studies:**
 
-## Case Interpretations (Input → Output)
+Case 1 Input: Healthy individual Output: PCT < 0.05 ng/mL → Normal, no infection.
 
-1. **Input:** Healthy individual  
-   **Output:** PCT < 0.05 ng/mL → Normal, no infection  
+Case 2 Input: Common cold (viral) Output: PCT < 0.1 ng/mL → Viral, not bacterial.
 
-2. **Input:** Common cold (viral)  
-   **Output:** PCT < 0.1 ng/mL → Viral, not bacterial  
+Case 3 Input: Mild urinary tract infection Output: PCT 0.2 ng/mL → Local bacterial infection.
 
-3. **Input:** Mild urinary tract infection  
-   **Output:** PCT 0.2 ng/mL → Local bacterial infection  
+Case 4 Input: Local skin infection (cellulitis) Output: PCT 0.3 ng/mL → Mild bacterial involvement.
 
-4. **Input:** Local skin infection (cellulitis)  
-   **Output:** PCT 0.3 ng/mL → Mild bacterial involvement  
+Case 5 Input: Strep throat Output: PCT 0.4 ng/mL → Bacterial infection likely.
 
-5. **Input:** Strep throat  
-   **Output:** PCT 0.4 ng/mL → Bacterial infection likely  
+Case 6 Input: Early bacterial pneumonia Output: PCT 0.6 ng/mL → Suggests bacterial cause.
 
-6. **Input:** Early bacterial pneumonia  
-   **Output:** PCT 0.6 ng/mL → Suggests bacterial cause  
+Case 7 Input: Community-acquired pneumonia (moderate) Output: PCT 1.0 ng/mL → Significant bacterial infection.
 
-7. **Input:** Community-acquired pneumonia (moderate)  
-   **Output:** PCT 1.0 ng/mL → Significant bacterial infection  
+Case 8 Input: Severe pneumonia Output: PCT 2.0 ng/mL → Severe bacterial involvement.
 
-8. **Input:** Severe pneumonia  
-   **Output:** PCT 2.0 ng/mL → Severe bacterial involvement  
+Case 9 Input: Hospital-acquired pneumonia Output: PCT 3.5 ng/mL → High, resistant bacteria possible.
 
-9. **Input:** Hospital-acquired pneumonia  
-   **Output:** PCT 3.5 ng/mL → High, resistant bacteria possible  
+Case 10 Input: Acute appendicitis Output: PCT 1.2 ng/mL → Active bacterial inflammation.
 
-10. **Input:** Acute appendicitis  
-    **Output:** PCT 1.2 ng/mL → Active bacterial inflammation  
+Case 11 Input: Bacterial meningitis Output: PCT 4.0 ng/mL → Strongly suggests bacterial meningitis.
 
-11. **Input:** Bacterial meningitis  
-    **Output:** PCT 4.0 ng/mL → Strongly suggests bacterial meningitis  
+Case 12 Input: Viral meningitis Output: PCT < 0.2 ng/mL → Viral, not bacterial.
 
-12. **Input:** Viral meningitis  
-    **Output:** PCT < 0.2 ng/mL → Viral, not bacterial  
+Case 13 Input: Early sepsis (urinary origin) Output: PCT 1.5 ng/mL → Bacteremia likely.
 
-13. **Input:** Early sepsis (urinary origin)  
-    **Output:** PCT 1.5 ng/mL → Bacteremia likely  
+Case 14 Input: Abdominal sepsis Output: PCT 5.0 ng/mL → Severe sepsis.
 
-14. **Input:** Abdominal sepsis  
-    **Output:** PCT 5.0 ng/mL → Severe sepsis  
+Case 15 Input: Septic shock with organ failure Output: PCT 10 ng/mL → Life-threatening bacterial sepsis.
 
-15. **Input:** Septic shock with organ failure  
-    **Output:** PCT 10 ng/mL → Life-threatening bacterial sepsis  
+Case 16 Input: Post-surgical wound infection Output: PCT 2.5 ng/mL → Post-op bacterial infection.
 
-16. **Input:** Post-surgical wound infection  
-    **Output:** PCT 2.5 ng/mL → Post-op bacterial infection  
+Case 17 Input: Post-surgical recovery (no infection) Output: PCT < 0.2 ng/mL → Normal healing.
 
-17. **Input:** Post-surgical recovery (no infection)  
-    **Output:** PCT < 0.2 ng/mL → Normal healing  
+Case 18 Input: COVID-19 viral infection Output: PCT < 0.1 ng/mL → Viral only, no bacterial.
 
-18. **Input:** COVID-19 viral infection  
-    **Output:** PCT < 0.1 ng/mL → Viral only, no bacterial  
+Case 19 Input: COVID-19 with bacterial pneumonia Output: PCT 1.5 ng/mL → Secondary bacterial infection.
 
-19. **Input:** COVID-19 with bacterial pneumonia  
-    **Output:** PCT 1.5 ng/mL → Secondary bacterial infection  
+Case 20 Input: Tuberculosis Output: PCT < 0.5 ng/mL → Chronic bacterial, low PCT.
 
-20. **Input:** Tuberculosis  
-    **Output:** PCT < 0.5 ng/mL → Chronic bacterial, low PCT  
+Case 21 Input: Malaria (parasitic infection) Output: PCT ~0.8 ng/mL → Mild rise, not specific.
 
-21. **Input:** Malaria (parasitic infection)  
-    **Output:** PCT ~0.8 ng/mL → Mild rise, not specific  
+Case 22 Input: Pancreatitis (sterile) Output: PCT < 0.3 ng/mL → No infection yet.
 
-22. **Input:** Pancreatitis (sterile)  
-    **Output:** PCT < 0.3 ng/mL → No infection yet  
+Case 23 Input: Pancreatitis with infected necrosis Output: PCT 3.0 ng/mL → Severe infection.
 
-23. **Input:** Pancreatitis with infected necrosis  
-    **Output:** PCT 3.0 ng/mL → Severe infection  
+Case 24 Input: Newborn suspected sepsis Output: PCT > 2 ng/mL → Neonatal sepsis likely.
 
-24. **Input:** Newborn suspected sepsis  
-    **Output:** PCT > 2 ng/mL → Neonatal sepsis likely  
-
-25. **Input:** Patient on antibiotics, improving  
-    **Output:** PCT falls 4.0 → 0.8 ng/mL → Infection resolving  
-
----
-
-**Summary:**  
-- **Input = Clinical condition**  
-- **Output = PCT value + interpretation**  
-- PCT helps differentiate **viral vs bacterial**, monitor **sepsis severity**, and track **antibiotic response**.
-
+Case 25 Input: Patient on antibiotics, improving Output: PCT falls 4.0 → 0.8 ng/mL → Infection resolving.
