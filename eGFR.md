@@ -26,15 +26,9 @@ eGFR estimates kidney function by calculating how much blood is filtered per min
 
 **Case Studies:**
 
-Case 1
+Case 1 Input: eGFR = 105 mL/min/1.73 m², healthy adult Output: Normal kidney function. Maintain healthy lifestyle.
 
-Input: eGFR = 105 mL/min/1.73 m², healthy adult
-Output: Normal kidney function. Maintain healthy lifestyle.
-
-Case 2
-
-Input: eGFR = 95 mL/min/1.73 m², 30-year-old male
-Output: Normal. No evidence of kidney disease.
+Case 2 Input: eGFR = 95 mL/min/1.73 m², 30-year-old male Output: Normal. No evidence of kidney disease.
 
 Case 3
 
