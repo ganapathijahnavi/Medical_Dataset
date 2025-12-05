@@ -3,12 +3,8 @@
 **Normal Range:**  
 30 to 40 seconds  
 
----
-
 **Clinical Significance:**  
 aPTT assesses the intrinsic and common clotting pathways. It is used to evaluate bleeding disorders, monitor anticoagulant therapy (e.g., heparin), and screen for clotting factor deficiencies.  
-
----
 
 **Future Diseases:**  
 - Clotting factor deficiencies (Hemophilia A, Hemophilia B, von Willebrand disease)  
@@ -16,15 +12,11 @@ aPTT assesses the intrinsic and common clotting pathways. It is used to evaluate
 - Antiphospholipid antibody syndrome  
 - Disseminated intravascular coagulation (DIC)  
 
----
-
 **Lifestyle Recommendations:**  
 - Regular monitoring if on anticoagulant therapy  
 - Avoid unnecessary injury and trauma  
 - Follow up with hematologist if persistently abnormal  
 - Inform healthcare providers before surgery if abnormal  
-
----
 
 **Case Studies:**
 
