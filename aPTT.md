@@ -26,7 +26,7 @@ aPTT assesses the intrinsic and common clotting pathways. It is used to evaluate
 
 ---
 
-## Case Interpretations
+**Case Studies:**
 
 Case 1
 
