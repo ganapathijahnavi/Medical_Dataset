@@ -7,7 +7,6 @@
 - **Infants (up to 12 months):** 0.2 – 0.4 mg/dL (18 – 35 µmol/L)  
 - **Newborns:** 0.3 – 1.0 mg/dL (varies in first week of life)   
 
----
 
 **Clinical Significance:**  
 Creatinine is a breakdown product of creatine phosphate in muscle, cleared primarily by the kidneys.  
@@ -16,7 +15,6 @@ Creatinine is a breakdown product of creatine phosphate in muscle, cleared prima
 
 Often used in combination with **estimated Glomerular Filtration Rate (eGFR)** to assess kidney function.  
 
----
 
 **Future Diseases & Risks of Abnormal Levels:**  
 - **High Creatinine:**  
@@ -31,7 +29,6 @@ Often used in combination with **estimated Glomerular Filtration Rate (eGFR)** t
   - Malnutrition  
   - Pregnancy (normal hemodilution effect)  
 
----
 
 **Lifestyle Recommendations:**  
 - Stay well-hydrated  
@@ -40,181 +37,53 @@ Often used in combination with **estimated Glomerular Filtration Rate (eGFR)** t
 - Limit excess protein supplements if kidney function is impaired  
 - Regular kidney function monitoring if at risk (hypertension, diabetes, family history of CKD)  
 
----
+**Case Studies:** 
+Case 1 – 1.2 mg/dL → Normal. Maintain hydration.
 
-# Case Studies 
+Case 2 – 0.8 mg/dL → Normal.
 
-### Case 1  
-**Input:** Creatinine = 1.2 mg/dL (male, 35 years old)  
-**Output:** Normal for adult male.  
-**Recommendation:** Maintain hydration and healthy lifestyle.  
+Case 3 – 2.0 mg/dL → Elevated, possible CKD. Nephrology consult.
 
----
+Case 4 – 0.4 mg/dL → Low, normal in pregnancy.
 
-### Case 2  
-**Input:** Creatinine = 0.8 mg/dL (female, 28 years old)  
-**Output:** Normal.  
-**Recommendation:** No intervention required.  
+Case 5 – 3.5 mg/dL → Critically high, advanced kidney disease.
 
----
+Case 6 – 0.3 mg/dL → Normal for child.
 
-### Case 3  
-**Input:** Creatinine = 2.0 mg/dL (male, 60 years old, diabetic)  
-**Output:** Elevated, suggests reduced kidney function (possible CKD).  
-**Recommendation:** Nephrology consult, control blood sugar and BP.  
+Case 7 – 1.5 mg/dL → Slightly elevated, early CKD possible.
 
----
+Case 8 – 0.6 mg/dL → Low, frailty/low muscle mass.
 
-### Case 4  
-**Input:** Creatinine = 0.4 mg/dL (female, 22 years old, pregnant)  
-**Output:** Low, common in pregnancy due to increased filtration.  
-**Recommendation:** Normal physiological change, monitor.  
+Case 9 – 5.0 mg/dL → Very high, possible rhabdomyolysis.
 
----
+Case 10 – 1.0 mg/dL → Normal.
 
-### Case 5  
-**Input:** Creatinine = 3.5 mg/dL (male, 70 years old, hypertensive)  
-**Output:** Critically high, indicates advanced kidney disease.  
-**Recommendation:** Urgent nephrology care, possible dialysis evaluation.  
+Case 11 – 2.8 mg/dL → High, drug-induced injury possible.
 
----
+Case 12 – 0.9 mg/dL → Slightly high for child.
 
-### Case 6  
-**Input:** Creatinine = 0.3 mg/dL (child, 5 years old)  
-**Output:** Normal for age.  
-**Recommendation:** No concern.  
+Case 13 – 7.0 mg/dL → Very high, advanced CKD on dialysis.
 
----
+Case 14 – 1.4 mg/dL → Mildly elevated, monitor eGFR.
 
-### Case 7  
-**Input:** Creatinine = 1.5 mg/dL (female, 50 years old)  
-**Output:** Slightly elevated, early CKD possible.  
-**Recommendation:** Monitor kidney function, manage risk factors.  
+Case 15 – 0.2 mg/dL → Normal for infant.
 
----
+Case 16 – 2.2 mg/dL → Elevated, possible cardiorenal syndrome.
 
-### Case 8  
-**Input:** Creatinine = 0.6 mg/dL (male, 80 years old, frail)  
-**Output:** Low, likely due to low muscle mass.  
-**Recommendation:** Nutritional assessment, monitor health.  
+Case 17 – 0.7 mg/dL → Normal-low, low muscle mass.
 
----
+Case 18 – 4.0 mg/dL → Severely elevated, advanced kidney disease.
 
-### Case 9  
-**Input:** Creatinine = 5.0 mg/dL (male, 40 years old, trauma with muscle injury)  
-**Output:** Very high, possible rhabdomyolysis.  
-**Recommendation:** Emergency care, IV fluids, monitor electrolytes.  
+Case 19 – 1.8 mg/dL → Elevated, possible lupus nephritis.
 
----
+Case 20 – 0.5 mg/dL → Low, malnutrition.
 
-### Case 10  
-**Input:** Creatinine = 1.0 mg/dL (female, 65 years old)  
-**Output:** Normal.  
-**Recommendation:** Maintain healthy lifestyle.  
+Case 21 – 6.5 mg/dL → Critically high, acute kidney injury.
 
----
+Case 22 – 1.6 mg/dL → Slightly high, may reflect muscle mass or supplements.
 
-### Case 11  
-**Input:** Creatinine = 2.8 mg/dL (male, 50 years old, taking NSAIDs)  
-**Output:** High, possible drug-induced kidney injury.  
-**Recommendation:** Stop nephrotoxic drugs, seek medical care.  
+Case 23 – 0.9 mg/dL → Normal, monitor in diabetes.
 
----
+Case 24 – 2.5 mg/dL → Elevated, possible HIV-drug nephrotoxicity.
 
-### Case 12  
-**Input:** Creatinine = 0.9 mg/dL (child, 12 years old)  
-**Output:** Slightly high for child, may indicate early renal impairment.  
-**Recommendation:** Pediatric nephrology evaluation.  
-
----
-
-### Case 13  
-**Input:** Creatinine = 7.0 mg/dL (male, 55 years old, CKD on dialysis)  
-**Output:** Very high, consistent with advanced kidney failure.  
-**Recommendation:** Continue dialysis, monitor closely.  
-
----
-
-### Case 14  
-**Input:** Creatinine = 1.4 mg/dL (female, 70 years old)  
-**Output:** Mildly elevated, kidney function may be reduced.  
-**Recommendation:** Monitor eGFR, hydration, manage comorbidities.  
-
----
-
-### Case 15  
-**Input:** Creatinine = 0.2 mg/dL (infant, 2 months old)  
-**Output:** Normal for age.  
-**Recommendation:** Routine follow-up.  
-
----
-
-### Case 16  
-**Input:** Creatinine = 2.2 mg/dL (male, 65 years old, heart failure)  
-**Output:** Elevated, may indicate cardiorenal syndrome.  
-**Recommendation:** Manage heart failure, nephrology follow-up.  
-
----
-
-### Case 17  
-**Input:** Creatinine = 0.7 mg/dL (female, 18 years old, vegan athlete)  
-**Output:** Normal but low end, may reflect low muscle mass.  
-**Recommendation:** Ensure balanced nutrition.  
-
----
-
-### Case 18  
-**Input:** Creatinine = 4.0 mg/dL (male, 72 years old, uncontrolled hypertension)  
-**Output:** Severely elevated, advanced kidney disease.  
-**Recommendation:** Immediate nephrology care.  
-
----
-
-### Case 19  
-**Input:** Creatinine = 1.8 mg/dL (female, 45 years old, lupus)  
-**Output:** Elevated, possible lupus nephritis.  
-**Recommendation:** Rheumatology and nephrology follow-up.  
-
----
-
-### Case 20  
-**Input:** Creatinine = 0.5 mg/dL (female, 30 years old, malnourished)  
-**Output:** Low due to low muscle mass.  
-**Recommendation:** Nutrition support, address underlying cause.  
-
----
-
-### Case 21  
-**Input:** Creatinine = 6.5 mg/dL (male, 50 years old, emergency dehydration)  
-**Output:** Critically high, acute kidney injury from dehydration.  
-**Recommendation:** IV fluids, urgent hospital care.  
-
----
-
-### Case 22  
-**Input:** Creatinine = 1.6 mg/dL (male, 28 years old, bodybuilder using supplements)  
-**Output:** Slightly high, may be from increased muscle mass or supplements.  
-**Recommendation:** Differentiate physiological vs renal cause, avoid excess protein/creatine.  
-
----
-
-### Case 23  
-**Input:** Creatinine = 0.9 mg/dL (female, 60 years old, diabetic)  
-**Output:** Normal, but diabetes increases kidney risk.  
-**Recommendation:** Annual kidney function checks.  
-
----
-
-### Case 24  
-**Input:** Creatinine = 2.5 mg/dL (male, 35 years old, HIV patient)  
-**Output:** Elevated, possible drug-induced nephrotoxicity.  
-**Recommendation:** Review medications, nephrology input.  
-
----
-
-### Case 25  
-**Input:** Creatinine = 12 mg/dL (male, 45 years old, ESRD awaiting transplant)  
-**Output:** Extremely high, end-stage kidney disease.  
-**Recommendation:** Dialysis/transplant required.  
-
----
+Case 25 – 12 mg/dL → Extremely high, ESRD awaiting transplant.
