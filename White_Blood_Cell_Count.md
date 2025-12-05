@@ -71,7 +71,4 @@ Case 23 Input: WBC = 3,200/µL, on chemotherapy Output: Low, expected due to che
 
 Case 24 Input: WBC = 25,000/µL Output: Very high. Suggestive of leukemia or severe sepsis.
 
-Case 25
-
-Input: WBC = 4,900/µL
-Output: Normal, stable immune function.
+Case 25 Input: WBC = 4,900/µL Output: Normal, stable immune function.
